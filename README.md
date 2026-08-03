@@ -1,16 +1,14 @@
-## Hi there 👋
+### Bonjour, je suis Sine 👋
 
-<!--
-**sinendoye/sinendoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Agroéconomiste de formation, spécialisée dans le développement des chaînes de valeur agricoles et agroalimentaires. Consciente des enjeux actuels du secteur, je me forme aujourd'hui au développement IA avec un objectif clair : apporter des solutions innovantes aux difficultés que rencontrent les communautés, en particulier dans l'agriculture et l'agroalimentaire.
 
-Here are some ideas to get you started:
+- 🌱 De l'agroéconomie à l'IA
+- 🎯 Objectif : IA au service de l'agriculture et l'agroalimentaire
+- 📍 Formation Dev IA — Orange Digital Center
+- 📚 Retrouvez tout mon parcours dans le repository [formation_dev_ia]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack & outils
+Python - Git & GitHub - Linux
+
+### 📫 Me contacter
+e-mail: sineseck0@gmail.com
