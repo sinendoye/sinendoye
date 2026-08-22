@@ -1,18 +1,17 @@
 <div align="center">
 
-![Header](./banner.svg)
+Afficher l'image
 
 <br>
 
-**Agroéconomiste | AI Developer in Progress | Solution Builder**
+Agroéconomiste | AI Developer in Progress | Solution Builder
 
 Building data-driven solutions for agriculture, exploring Artificial Intelligence Engineering.
 
-### Building Intelligent Solutions for Agriculture — and Beyond
-
+Building Intelligent Solutions for Agriculture — and Beyond
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;AgriFood+%26+Beyond;Continuous+learner%2C+always+building;From+insight+to+implementation+-+I+build)](https://git.io/typing-svg)
+Afficher l'image
 
 </div>
 
