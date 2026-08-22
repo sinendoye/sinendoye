@@ -1,12 +1,18 @@
 <div align="center">
 
-# 🌱 Sine
+![Header](./banner.svg)
 
-### AI Solutions Architect — AgriFood & Beyond
+<br>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=&fontSize=0)
+**Agroéconomiste | AI Developer in Progress | Solution Builder**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=650&lines=Turning+agricultural+value+chains+into+data-driven+systems+%F0%9F%8C%BE;Continuous+learner%2C+always+building+%F0%9F%93%9A;From+insight+to+implementation+-+I+don't+just+advise%2C+I+build+%F0%9F%9A%80;Open+to+cross-sector+AI+innovation+%F0%9F%A4%96)](https://git.io/typing-svg)
+Building data-driven solutions for agriculture, exploring Artificial Intelligence Engineering.
+
+### Building Intelligent Solutions for Agriculture — and Beyond
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;AgriFood+%26+Beyond;Continuous+learner%2C+always+building;From+insight+to+implementation+-+I+build)](https://git.io/typing-svg)
 
 </div>
 
