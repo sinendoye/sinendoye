@@ -16,14 +16,14 @@ Background in agricultural economics (Bachelor's in Economics, Management & Sust
 
 My goal is not just to *recommend* solutions to agricultural and agri-food businesses — it's to **build and implement them myself**, using AI. And while agriculture remains my core specialty, I'm developing skills to bring the same problem-solving approach to any sector where data can drive better decisions.
 
-- 🌾 Core expertise: agricultural & agri-food value chains, business performance
-- 🤖 Currently training: AI Development (Cohort 1 — Orange Digital Center / ECSA)
-- 🎯 Mission: go beyond advisory — design and deliver AI-powered solutions for agriculture, with the versatility to work across sectors
-- 🚀 Approach: understand the real problem first, then build the tool that solves it
+- **Core expertise:** agricultural & agri-food value chains, business performance
+- **Currently training:** AI Development (Cohort 1 — Orange Digital Center / ECSA)
+- **Mission:** go beyond advisory — design and deliver AI-powered solutions for agriculture, with the versatility to work across sectors
+- **Approach:** understand the real problem first, then build the tool that solves it
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -47,15 +47,15 @@ My goal is not just to *recommend* solutions to agricultural and agri-food busin
 
 ---
 
-## 📚 Currently Building
+## Currently Building
 
-- 🔬 Structured Machine Learning workshops (classification, model evaluation, serialization)
-- 📊 Data visualization applied to IoT sensor datasets
-- 🧩 Reusable pedagogical notebooks, grounded in agriculture, agri-food and IoT examples
-- 🌾 Early-stage thinking on an intelligent system for agricultural production chain management
+- Structured Machine Learning workshops (classification, model evaluation, serialization)
+- Data visualization applied to IoT sensor datasets
+- Reusable pedagogical notebooks, grounded in agriculture, agri-food and IoT examples
+- Early-stage thinking on an intelligent system for agricultural production chain management
 
 ---
 
 <div align="center">
-<sub>🌱 Building, one commit at a time.</sub>
+<sub> Building, one commit at a time.</sub>
 </div>
