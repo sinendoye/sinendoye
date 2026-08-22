@@ -1,0 +1,23 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bluegrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1F3A"/>
+      <stop offset="55%" stop-color="#123A6B"/>
+      <stop offset="100%" stop-color="#1D5B9E"/>
+    </linearGradient>
+    <linearGradient id="goldgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F2D06B"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#F2D06B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bluegrad)"/>
+
+  <path d="M0,230 C260,270 400,190 700,215 C950,235 1080,200 1200,225 L1200,280 L0,280 Z" fill="#0B1F3A" opacity="0.55"/>
+  <path d="M0,245 C300,280 650,210 950,240 C1050,250 1120,235 1200,245 L1200,280 L0,280 Z" fill="url(#goldgrad)" opacity="0.18"/>
+
+  <text x="60" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="url(#goldgrad)">Sine Ndoye Seck</text>
+
+  <text x="63" y="165" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#F5F5F5">Agroéconomiste | AI Developer in Progress</text>
+</svg>
