@@ -1,0 +1,47 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bluegrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1F3A"/>
+      <stop offset="55%" stop-color="#123A6B"/>
+      <stop offset="100%" stop-color="#1D5B9E"/>
+    </linearGradient>
+
+    <linearGradient id="goldgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F2D06B">
+        <animate attributeName="offset" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#D4AF37">
+        <animate attributeName="offset" values="0.5;1.5;0.5" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#F2D06B">
+        <animate attributeName="offset" values="1;2;1" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bluegrad)"/>
+
+  <path fill="#0B1F3A" opacity="0.55">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M0,230 C260,270 400,190 700,215 C950,235 1080,200 1200,225 L1200,280 L0,280 Z;
+        M0,215 C260,190 400,270 700,235 C950,210 1080,235 1200,200 L1200,280 L0,280 Z;
+        M0,230 C260,270 400,190 700,215 C950,235 1080,200 1200,225 L1200,280 L0,280 Z" />
+  </path>
+
+  <path fill="url(#goldgrad)" opacity="0.18">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="
+        M0,245 C300,280 650,210 950,240 C1050,250 1120,235 1200,245 L1200,280 L0,280 Z;
+        M0,235 C300,210 650,280 950,210 C1050,230 1120,250 1200,235 L1200,280 L0,280 Z;
+        M0,245 C300,280 650,210 950,240 C1050,250 1120,235 1200,245 L1200,280 L0,280 Z" />
+  </path>
+
+  <text x="600" y="120" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="url(#goldgrad)">
+    Sine Ndoye Seck
+  </text>
+
+  <text x="600" y="165" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="0.5" fill="#F5F5F5">
+    Agroeconomist | AI Developer in Progress
+  </text>
+</svg>

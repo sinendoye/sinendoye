@@ -2,15 +2,7 @@
 
 ![Header](./banner.svg)
 
-<br>
-
-**Agroéconomiste | AI Developer in Progress | Solution Builder**
-
-Building data-driven solutions for agriculture, exploring Artificial Intelligence Engineering.
-
-### Building Intelligent Solutions for Agriculture — and Beyond
-
-<br>
+![Subtitle](./subtitle.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=AI+Solutions+Architect;AgriFood+%26+Beyond;Continuous+learner%2C+always+building;From+insight+to+implementation+-+I+build)](https://git.io/typing-svg)
 
@@ -18,16 +10,16 @@ Building data-driven solutions for agriculture, exploring Artificial Intelligenc
 
 ---
 
-## About Me
+## 👋 About Me
 
-Background in agricultural economics (Bachelor's in Economics, Management & Rurale Finance — Master's in Agricultural & Agri-Food Value Chain Development), now building AI development skills at Orange Digital Center.
+Background in agricultural economics (Bachelor's in Economics, Management & Sustainable Finance — Master's in Agricultural & Agri-Food Value Chain Development), now building AI development skills at Orange Digital Center.
 
 My goal is not just to *recommend* solutions to agricultural and agri-food businesses — it's to **build and implement them myself**, using AI. And while agriculture remains my core specialty, I'm developing skills to bring the same problem-solving approach to any sector where data can drive better decisions.
 
-- **Core expertise:** agricultural & agri-food value chains, business performance
-- **Currently training:** AI Development (Cohort 1 — Orange Digital Center / ECSA)
-- **Mission:** go beyond advisory — design and deliver AI-powered solutions for agriculture, with the versatility to work across sectors
-- **Approach:** understand the real problem first, then build the tool that solves it
+- 🌾 Core expertise: agricultural & agri-food value chains, business performance
+- 🤖 Currently training: AI Development (Cohort 1 — Orange Digital Center / ECSA)
+- 🎯 Mission: go beyond advisory — design and deliver AI-powered solutions for agriculture, with the versatility to work across sectors
+- 🚀 Approach: understand the real problem first, then build the tool that solves it
 
 ---
 
@@ -51,7 +43,7 @@ My goal is not just to *recommend* solutions to agricultural and agri-food busin
 `Jupyter Notebook` · `Git & GitHub` · `VS Code` · `Python Virtual Environments`
 
 ### Domain Expertise
-`Agricultural Value Chains` · `Agri-Food Business Performance` . `Business development`
+`Agricultural Value Chains` · `Agri-Food Business Performance` · `IoT for Agriculture`
 
 ---
 
